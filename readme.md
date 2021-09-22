@@ -11,6 +11,12 @@
 * **Code formatting:**
   - shift + alt + F
 
+* **Rename Symbol**
+  - Select the symbol and them press F2
+
+* **Navigate to a specific line:**
+  - ctrl + G (WIN / MAC)
+
 * **Column selection:**
   - shift + alt + mouse selection
 
@@ -21,6 +27,9 @@
 * **Duplicate cursor:**
   - ctrl + alt + up/down
 
+* **Open terminal:**
+  - ctrl + shift + ` (WIN)
+
 * **Openning/Closing side bar:** 
   - ctrl + b (WIN)
   - command + b (MAC)
@@ -28,16 +37,12 @@
 * **Find:**
   - ctrl + F (WIN)
 
-* **Open terminal:**
-  - ctrl + shift + ` (WIN)
-
 * **Delete previous word:**
   - ctrl + backspace (WIN)
   - command + delete (MAC)
 
-* **Navigate to a specific line:**
-  - ctrl + G (WIN / MAC)
-
 * **Delete line:**
   - ctrl + X
+
+
 
